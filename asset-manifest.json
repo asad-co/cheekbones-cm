@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cheekbones-cm/static/css/main.78eee4d0.css",
+    "main.js": "/cheekbones-cm/static/js/main.70cafa19.js",
+    "index.html": "/cheekbones-cm/index.html",
+    "main.78eee4d0.css.map": "/cheekbones-cm/static/css/main.78eee4d0.css.map",
+    "main.70cafa19.js.map": "/cheekbones-cm/static/js/main.70cafa19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78eee4d0.css",
+    "static/js/main.70cafa19.js"
+  ]
+}
